@@ -1,6 +1,6 @@
 # ESP32C3Watch
 ## 1. Brief/简介
-The smartwatch made based on ESP32-C3(RISC-V MCU),Which has heart rate, oximetry, temperature, fall detection and IOT Function. 
+The smartwatch made based on ESP32-C3(RISC-V MCU), which has heart rate, oximetry, temperature, fall detection and IOT Function. 
 
 > 基于 ESP32-C3的智能手表（RISC-V MCU），具有心率、血氧饱和度、温度、跌倒检测和物联网功能。
 
