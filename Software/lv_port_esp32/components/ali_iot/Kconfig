@@ -1,0 +1,10 @@
+menu "ali_iot"
+	visible if IDF_TARGET_ESP32
+	
+	config ALI_IOT_ENABLE
+		bool "Enable ali_iot"
+		default n
+		help
+            Select this option to enable ALI_IOT and show the submenu with ALI_IOT configuration choices.
+	
+endmenu

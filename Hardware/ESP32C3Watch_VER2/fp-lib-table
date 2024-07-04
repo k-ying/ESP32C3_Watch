@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ESP-13")(type "KiCad")(uri "${KIPRJMOD}/ProjSym/ESP-13")(options "")(descr ""))
+)

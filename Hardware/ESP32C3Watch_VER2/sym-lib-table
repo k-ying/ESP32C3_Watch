@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "esp-c3-13-4m")(type "KiCad")(uri "${KIPRJMOD}/ProjSym/ESP-13/esp-c3-13-4m.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX30205MTA_T")(type "KiCad")(uri "${KIPRJMOD}/ProjSym/symbols/MAX30205MTA_T.kicad_sym")(options "")(descr ""))
+  (lib (name "tp4056")(type "KiCad")(uri "${KIPRJMOD}/ProjSym/symbols/tp4056.kicad_sym")(options "")(descr ""))
+)
